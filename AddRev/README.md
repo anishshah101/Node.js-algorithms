@@ -20,3 +20,6 @@ The reverse of the numbers are added for each pair and the resulting answer is r
 543
 
 64
+
+
+Ideone link: http://ideone.com/l17U3O
